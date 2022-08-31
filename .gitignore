@@ -47,3 +47,4 @@ octave-workspace
 *.pickle
 # End of https://www.gitignore.io/api/matlab
 Python/highd-dataset-v1.0.zip
+*.pyc
